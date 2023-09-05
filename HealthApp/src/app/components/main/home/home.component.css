@@ -1,7 +1,23 @@
 h3 {
     color: black;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
 }
-
+.main-home-page-text {
+    position: relative;
+    top: 150px;
+    left: 99px;
+}
 img {
     size: 30px;
 }
+
+.nav-item {
+    padding-left: 80px;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+
+p {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+

@@ -1,0 +1,25 @@
+.nav-item {
+    padding-left: 80px;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+.navbar {
+    background-color: #a4c3d3;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+.nav-link {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    position: relative;
+    top: 30px;
+    left: 590px;
+}
+.navbar-text {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    position: relative;
+    top: 30px;
+    left: 590px;
+
+}
+html, body {
+    background-color: #a4c3d3;
+}
